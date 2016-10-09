@@ -1,0 +1,239 @@
+legend: 
+#: action is indifferent (Q values equal for all state, action pairs) 
+?: 2 actions have equal weights 
+\: best action is to go left 
+|: best action is to go forward 
+/: best action is to go right 
+
+Policies for map 1
+learnt policy when no car is ahead. 
+# # # # # 
+# # # # # 
+/ | \ \ \ 
+| / \ \ / 
+| \ / \ \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# | / | / 
+# / | / / 
+# | | | | 
+# / | / / 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+/ \ \ / \ 
+/ / / \ \ 
+/ \ \ \ \ 
+/ \ \ \ \ 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+\ | \ | # 
+| | \ \ # 
+| | \ | # 
+\ | \ | # 
+
+Policies for map 2
+learnt policy when no car is ahead. 
+# # # # # 
+/ | | | \ 
+/ / \ | \ 
+/ | | \ \ 
+/ | | | \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # / | / 
+# # / | | 
+# # / / | 
+# # / | / 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# / \ \ # 
+# / \ \ # 
+# / \ \ # 
+# / \ \ # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+| | \ # # 
+| | | # # 
+| | | # # 
+\ | | # # 
+
+Policies for map 3
+learnt policy when no car is ahead. 
+# # # # # 
+/ | \ | \ 
+/ | \ | \ 
+/ | \ | \ 
+/ | / | \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # / # | 
+# # / # / 
+# # | # / 
+# # / # | 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# / # \ # 
+# / # \ # 
+# \ # \ # 
+# \ # \ # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+\ # \ # # 
+\ # \ # # 
+\ # \ # # 
+\ # \ # # 
+
+Policies for map 4
+learnt policy when no car is ahead. 
+# # # # # 
+| / | | \ 
+/ / | \ \ 
+/ / | | \ 
+/ / | | \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # # | | 
+# # # | | 
+# # # | | 
+# # # | | 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# # / \ # 
+# # / \ # 
+# # / \ # 
+# # / \ # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+# \ | # # 
+# \ | # # 
+# | | # # 
+# | | # # 
+
+Policies for map 5
+learnt policy when no car is ahead. 
+# # # # # 
+/ | | \ | 
+/ / | \ \ 
+/ | | \ \ 
+/ | \ \ \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # | | # 
+# # | | # 
+# # | | # 
+# # | | # 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# / \ # # 
+# / \ # # 
+# / \ # # 
+# / \ # # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+| | # # # 
+| | # # # 
+| | # # # 
+| | # # # 
+
+Policies for map 6
+learnt policy when no car is ahead. 
+# # # # # 
+| / | \ | 
+/ / | \ \ 
+| / | \ | 
+/ / | \ \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # # / # 
+# # # | # 
+# # # | # 
+# # # | # 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# # \ # # 
+# # / # # 
+# # / # # 
+# # \ # # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+# \ # # # 
+# \ # # # 
+# | # # # 
+# \ # # # 
+
+Policies for map 7
+learnt policy when no car is ahead. 
+# # # # # 
+# # / | # 
+# / | | | 
+/ / / | \ 
+/ / | \ / 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# # # # / 
+# # # | | 
+# # / | | 
+# / | | # 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+# # # / \ 
+# # / \ \ 
+# / / \ # 
+/ / \ # # 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+# # | \ # 
+# | | \ # 
+\ | \ # # 
+| \ # # # 
+
+Policies for map 8
+learnt policy when no car is ahead. 
+# # # # # 
+# | \ # # 
+| | \ \ # 
+/ | \ \ \ 
+| / | \ \ 
+
+learnt policy when a car is on the upper left tile. 
+# # # # # 
+# | / # # 
+# | | | # 
+# # | | / 
+# # # | / 
+
+learnt policy when a car is on the upper front tile. 
+# # # # # 
+/ \ # # # 
+/ / \ # # 
+# / \ \ # 
+# # / \ \ 
+
+learnt policy when a car is on the upper right tile. 
+# # # # # 
+| # # # # 
+\ | # # # 
+| | \ # # 
+# | | \ # 
+
